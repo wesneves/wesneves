@@ -1,6 +1,4 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-wesneves&style=flat-square&color=important" alt=""/>
   <a href="https://wesneves.github.io/">
