@@ -9,8 +9,8 @@
   <a href="www.linkedin.com/in/wesley-neves-750052206">
    <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:weneves@outlook.com">
-   <img src="https://img.shields.io/badge/Email-informational?logo=Microsoft Outlook&logoColor=white" alt="Email"/>
+ <a href="mailto:weneves@outlook.com">
+   <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/>
  </a>
     <h1>
   Bem Vindos!
