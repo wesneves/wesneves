@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-wesneves&style=flat-square&color=important" alt=""/>
-  <a href="https://weneves.netlify.app/">
+  <a href="https://wesneves.github.io/">
    <img src="https://img.shields.io/badge/WebPage-inactive?logo=Hugo&logoColor=white" alt="WebPage Badge"/>
   </a>
   <a href="www.linkedin.com/in/wesley-neves-750052206">
